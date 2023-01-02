@@ -4,9 +4,9 @@
 
 # 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Goto](http://shanehowearth.com/goto)
-- [Git &lpar;cont.&rpar;](http://shanehowearth.com/git-cont)
-- [Distributed Version Control &lpar;Git&rpar;](http://shanehowearth.com/distributed-version-control-git)
-- [Event Driven Architecture &lpar;AWS&rpar;](http://shanehowearth.com/event-driven-architecture-aws)
-- [Passing data across software boundaries](http://shanehowearth.com/passing-data-across-software-boundaries)
+- [Working with YAML](http://shanehowearth.com/working-with-yaml)
+- [Go Workspaces](http://shanehowearth.com/go-workspaces)
+- [Bulk data and the Cloud](http://shanehowearth.com/bulk-data-and-the-cloud)
+- [When should caches be used](http://shanehowearth.com/when-should-caches-be-used)
+- [The Art of debugging](http://shanehowearth.com/the-art-of-debugging)
 <!-- BLOG-POST-LIST:END -->
